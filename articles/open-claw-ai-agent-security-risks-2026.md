@@ -1,8 +1,8 @@
 ---
 title: "GitHub Star 27万超の『Open Claw』が示す、AIエージェントのセキュリティリスク"
-emoji: "🔐"
+emoji: "📝"
 type: "tech"
-topics: ["ai", "security", "llm", "aiagent", "openclaw"]
+topics: ["ai", "security", "agent", "cybersecurity", "dx"]
 published: true
 ---
 
